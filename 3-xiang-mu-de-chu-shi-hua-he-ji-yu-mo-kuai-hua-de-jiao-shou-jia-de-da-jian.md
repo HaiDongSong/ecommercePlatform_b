@@ -51,8 +51,23 @@ git add .
 git commit -am 'test'(提交并添加注释)
 git push
 git push --set-upstream origin master
-
 ```
+
+这样本地文件夹就和远程仓库连接起来啦，可以刷新仓库看到test.html已经push到仓库中
+
+
+
+### 3.项目脚手架的安装
+
+### ![](/assets/import35.png)
+
+### 
+
+### ![](/assets/import36.png)
+
+#### ![](/assets/impor37t.png)官方文档：\[http://webpack.github.io/docs/\]\(http://webpack.github.io/docs/\)
+
+#### 
 
 
 
