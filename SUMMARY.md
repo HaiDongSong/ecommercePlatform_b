@@ -6,4 +6,5 @@
   * [2.1 sublime使用技巧](kai-fa-huan-jing-da-jian-he-kai-fa-gong-ju-jie-shao/sublimeshi-yong-ji-qiao.md)
   * [2.2 代理服务器](kai-fa-huan-jing-da-jian-he-kai-fa-gong-ju-jie-shao/dai-li-fu-wu-qi.md)
 * [3 项目的初始化和基于模块化的脚手架的搭建](3-xiang-mu-de-chu-shi-hua-he-ji-yu-mo-kuai-hua-de-jiao-shou-jia-de-da-jian.md)
+* [4 项目通用功能开发](4-xiang-mu-tong-yong-gong-neng-kai-fa.md)
 
