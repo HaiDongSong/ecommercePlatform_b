@@ -65,5 +65,20 @@ git push --set-upstream origin master
 
 ![](/assets/import37.png)![](/assets/import38.png)** 2.x下的uglify.js打包后的js文件有一个object.default,IE8会报错**
 
-![](/assets/import40.png)![](/assets/import41.png)![](/assets/import42.png)
+#### ![](/assets/import40.png)代码提交：
+
+```js
+git status
+git add .
+git commit -am "description"
+git merge origin master
+git push
+git tag "name"
+git push origin "name"
+git status
+```
+
+## 
+
+
 
